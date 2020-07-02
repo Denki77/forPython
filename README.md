@@ -1,3 +1,3 @@
 # forPython
 Async chat of skillbox
-autor: DF
+author: DF
